@@ -1,0 +1,23 @@
+	CUTIA DE VITEZE
+
+Rolul cutiei de viteze este de a modifica forþa de tracþiune,
+în funcþie de valoarea rezistenþei la înaintare.
+Daca momentul maxim al motorului ar fi transmis direct
+rotilor motoare automobilul n-ar putea pleca de pe loc. Pentru
+ca turatia motorului sa fie transmisa rotilor, ori sa putem
+manevra automobilul inapoi in conditiile in care arborele cotit
+al motorului se roteste intr-un singur sens, sau in vederea
+rezolvarii tuturor problemelor ridicate de circulatia pe diferite
+drumuri, cind valoarea necesara fortei de tractiune poate fi
+diferita, intre motor si rotile automobilului se monteaza o serie
+de mecanisme cu roti dintate, care reduc turatia dupa necesitati, marind in acelasi timp cuplul transmis.
+Rolul cutiei de viteze care face parte din transmisia automobilului este deci urmatorul:
+- permite modificarea fortei de tractiune in functie de variatia rezistentelor de inaintare
+- permite deplasarea automobilului cu viteze reduse in
+raport cu turatia motorului
+- permite mersul inapoi al automobilului, fara a inversa
+sensul de rotatie al motorului
+- realizeaza intreruperea legaturii dintre motor si restul
+transmisiei in timp ce motorul functioneaza (dar automobilul sta pe loc).
+DE RETINUT! Conducerea ecologica inseamna adaptarea
+stilului de conducere astfel incat sa reduci consumul de combustibil. Noxele emise de motor sunt determinate de cantitatea de combustibil arsa in motor.
